@@ -7,6 +7,12 @@
 #import <UIKit/UIKit.h>
 #import "TTRangeSliderDelegate.h"
 
+//! Project version number for TTRangeSlider.
+FOUNDATION_EXPORT double TTRangeSliderVersionNumber;
+
+//! Project version string for TTRangeSlider.
+FOUNDATION_EXPORT const unsigned char TTRangeSliderVersionString[];
+
 IB_DESIGNABLE
 @interface TTRangeSlider : UIControl <UIGestureRecognizerDelegate>
 
