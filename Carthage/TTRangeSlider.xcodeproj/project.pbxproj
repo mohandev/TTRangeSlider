@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		11A0A41420DBA636009D2C17 /* TTRangeSliderDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 11A0A41120DBA636009D2C17 /* TTRangeSliderDelegate.h */; };
+		11A0A41420DBA636009D2C17 /* TTRangeSliderDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 11A0A41120DBA636009D2C17 /* TTRangeSliderDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		11A0A41520DBA636009D2C17 /* TTRangeSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A0A41220DBA636009D2C17 /* TTRangeSlider.m */; };
 		11A0A41620DBA636009D2C17 /* TTRangeSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = 11A0A41320DBA636009D2C17 /* TTRangeSlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
